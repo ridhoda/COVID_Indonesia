@@ -10,7 +10,7 @@
   * Kota Bogor : [disini](http://covid19.kotabogor.go.id/)
   * Kota Cimahi : tidak ada website khusus
   * Kota Cirebon :[disini](http://covid19.cirebonkota.go.id/)
-  * Kota Depok
+  * Kota Depok : [disini](https://ccc-19.depok.go.id/)
   * Kota Sukabumi
   * Kota Tasikmalaya
   * Kabupaten Bandung : [disini](https://covid19.bandungkab.go.id/)
@@ -116,3 +116,4 @@
 ##KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
 * [Halid_Misfal_Karbala](https://www.linkedin.com/in/halid-misfal-karbala-a556291a3/)
+* [Ridho Dwica Anggara] (https://www.linkedin.com/in/ridho-dwica-49912916b/)
